@@ -436,7 +436,7 @@ int obliczanie_wzoru (int* wzor, int dlugosc)
                                                  // 0 - poczatek(nic),
                                                  // 1 - czekanie na wczytanie drugiego argumentu do &&,
                                                  // 2 - pojawienie sie || i czekanie do wczytania kolejnej operacji,
-                                                 // 3 - pojawienie sie drugi raz z rzêdu ||,
+                                                 // 3 - pojawienie sie drugi raz z rzÄ™du ||,
                                                  // 4 - pojawienie sie && po ||,
         int negacja = 0;
         while(1)
